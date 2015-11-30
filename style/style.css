@@ -140,9 +140,9 @@ body{
 	-webkit-transition:all ease-in-out 0.25s;
 }
 .navigation a#portfolio_link:hover{
-	border-left: 5px solid #84bd00;
+	border-left: 5px solid #6abd19;
 	background: #111111;
-	color: #84bd00;
+	color: #6abd19;
 	transition:all ease-in-out 0.25s;
 	-webkit-transition:all ease-in-out 0.25s;
 }
@@ -307,7 +307,7 @@ body{
 	color: #ffc1bd;
 }
 #portfolio{
-	background: #00d17d;
+	background: #6abd19;
 	/*border-top:1px solid #ddd;
 	border-bottom:1px solid #ddd;*/
 }

@@ -25,3 +25,23 @@
 		display: flex;
 	}
 }
+
+@media (max-width:375px){
+	#portfolio figure{
+		margin-left:0;
+		margin-right:0;
+	}
+	#portfolio figcaption{
+		padding-left:15px;
+		padding-right:15px;
+	}
+	.caption-footer{
+		margin:0px -15px;
+	}
+	#portfolio h4{
+		font-size: 14px;
+	}
+	#portfolio h6{
+		font-size: 11px;
+	}
+}
